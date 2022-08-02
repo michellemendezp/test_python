@@ -1,2 +1,2 @@
 # test_python
-Aqui estudiando
+Phyton mini programs
